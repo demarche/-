@@ -1,8 +1,9 @@
 # TETRIS
-CRAZY VERSION
+Chaos VERSION
+
+![tetris](https://github.com/demarche/tetris/raw/master/tetris.png "tetris")
 
 # REQUIREMENT
 
-- DxLib 
-　ＤＸライブラリ Windows版 VisualStudio( C++ )用(Ver3.21b)
+- ＤＸライブラリ Windows版 VisualStudio( C++ )用(Ver3.21b) or higher
 https://dxlib.xsrv.jp/dxdload.html
